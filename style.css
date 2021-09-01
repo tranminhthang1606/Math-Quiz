@@ -1,0 +1,86 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Luckiest Guy;
+    font-weight: 400;
+    background-color: linen;
+}
+
+.container {
+    margin-top: 100px;
+    max-width: 1024px;
+    height: 500px;
+    background-color: #fff;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.header {
+    border-radius: 10px 10px 0 0;
+    height: 90px;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+    background-color: #FF5959;
+    color: #fff;
+}
+
+.logo {
+    position: relative;
+}
+
+img {
+    max-width: 40px;
+    height: 40px;    
+}
+
+.header .math button {
+    background-color: inherit;
+    color: inherit;
+    border: none;
+}
+
+.QQ {
+    margin-top: 25px;
+    font-size: 120px;
+    line-height: 160px;
+}
+
+.Question button {
+    background-color: #F8EEEE;
+    width: 200px;
+    height: 120px;
+    font-size: 70px;
+    line-height: 120px;
+    margin: 0 5px 0 5px;
+    border: none;
+}
+
+.QA {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.n1 {
+    color: #A58B5A;
+}
+
+.n2 {
+    color: #6896EE;
+}
+
+.dau {
+    color: #CB8181;
+}
+
+.bang {
+    color: #F5D9EF;
+}
+
+.dA {
+    color: #C20000;
+}
